@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinSums", "CoinSums\CoinSu
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem 31", "Problem 31", "{170656AB-EEC2-4BBC-9981-F84C0ED43213}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem 13", "Problem 13", "{3BFEE090-B73F-48CE-9C46-A5851259F870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargeSum", "LargeSum\LargeSum.csproj", "{544844EB-9910-4611-8AB0-2A39376B8156}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,11 +19,16 @@ Global
 		{840DA164-57C3-4DCE-952C-646B182FD695}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{840DA164-57C3-4DCE-952C-646B182FD695}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{840DA164-57C3-4DCE-952C-646B182FD695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{544844EB-9910-4611-8AB0-2A39376B8156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544844EB-9910-4611-8AB0-2A39376B8156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544844EB-9910-4611-8AB0-2A39376B8156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544844EB-9910-4611-8AB0-2A39376B8156}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{840DA164-57C3-4DCE-952C-646B182FD695} = {170656AB-EEC2-4BBC-9981-F84C0ED43213}
+		{544844EB-9910-4611-8AB0-2A39376B8156} = {3BFEE090-B73F-48CE-9C46-A5851259F870}
 	EndGlobalSection
 EndGlobal
